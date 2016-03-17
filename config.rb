@@ -4,9 +4,6 @@
 
 # Time.zone = "UTC"
 
-require 'slim'
-Slim::Engine.disable_option_validator!
-
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   # blog.prefix = "blog"
