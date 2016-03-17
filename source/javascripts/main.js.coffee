@@ -1,0 +1,3 @@
+$ ->
+  Boxlayout.init()
+  return
